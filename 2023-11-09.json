@@ -1,0 +1,26 @@
+{
+  "name": "Ernest Caldwell",
+  "age": 49,
+  "address": {
+    "street": "Urosi Path",
+    "city": "Jinwatbu",
+    "state": "OR",
+    "zip": "88968"
+  },
+  "contact": {
+    "phone": "(563) 397-1001",
+    "servicePhone": "800467453"
+  },
+  "birthday": "1977-12-05T09:04:28.700Z",
+  "ip": "49.185.9.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuegije bakeplet baphiwlu doze ivotu tilab jabarnim fokjugew un ti vuvcopup ub gidipef rugwasido. Imazovat ecahad fu maeze jusdu zaf ohme en zucocka ikfah osuga dap rad zukkir isasatgu. Ehidawma vih wir nikoz zel rivevra jib udubib ladke imizi commu melrihzo eb osivuwog mod ifepacih zufjilzo. Pu jisum keaz daggikoh ke dubak ice fuzlus ju nul abu jeapiaf tak la.",
+    "bio": "Pa focmalver fumcap mof owdu gacjen abiijwe puczuh bovtawgod cudi wocnab ophijfub vosi olfemap iz hac nec ketmeju. Epik lif edhon um demo gilhone du taribcop bile cebpuad gotu jaeri secufjo nu tikubpu urazi silweet. Kodtu kobfis kagsalrid vin map ipjokiha raadi gidza bacdaesa batuhi nuvhutoje rag som. Aju beeco gapkuf wanecin uveb ewifudton be gop ulme relgebbu iro ku gobuju liluv rug wokkifil. Avranet vuplij bezi ru rimgeva sa res uj navta gemed zuowanin kobe net idvop log."
+  },
+  "apiKey": "d5f5d2ed51bfc612fc2dc5f49a191f2273d782389e9d254a5210fd0ae94a1bf8",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
