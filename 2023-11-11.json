@@ -1,0 +1,26 @@
+{
+  "name": "Micheal Stevens",
+  "age": 52,
+  "address": {
+    "street": "Johi Manor",
+    "city": "Nergaham",
+    "state": "MI",
+    "zip": "92541"
+  },
+  "contact": {
+    "phone": "(828) 465-1712",
+    "servicePhone": "800997381"
+  },
+  "birthday": "1984-02-04T23:30:32.001Z",
+  "ip": "157.50.184.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Dicrov wa mifvevuh he mu susutojoz ru bavaro pekpu tunuhuci tinegsa maguhtut dehi osale vujdegra cijmiscis cuguhah faji. Un wud dol gig bopubekuf ko pirjifcic lufdepeda ve ozeroko fafozhat foigi jepumwo di akwugo cod bodu. Ubouruek rafjip ujewil ga avaus ingofac lo ibeka cansaib nigiewi tupbe zetate nokorafi koctadi. Maw lujonip zuhwutnut im rosugi pi cukog duruvod habu go igu nuokulok zuruv. Su som vun ho ubi it sis wiem suvrinwo hibhe liecu gof jaihkot nismiz supeca cehilmow.",
+    "bio": "Kegnorrog ti gu ih unbi hien bal run kewtafor soric kimfuk getraep. Mogevat hubidjo me burraz kitok uko ar fegbo wab ha ocotu peniz. Punduc otipag ova ugvaab zighug biw uhkaknu gom nasbiozi rabmacur jutemzu tiilze ko zabwek. Pinsed asiug oc cimkodba zarbara er finuni viefije ahudomas hibiltu lus uhu gih ic rugaj."
+  },
+  "apiKey": "c70809f30803b3cbf119ab37fae9ba503f16c5ea2de314c36fb24b54c96fe928",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
