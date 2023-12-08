@@ -1,0 +1,26 @@
+{
+  "name": "Hettie Singleton",
+  "age": 37,
+  "address": {
+    "street": "Wafzu Terrace",
+    "city": "Roupuon",
+    "state": "MN",
+    "zip": "56902"
+  },
+  "contact": {
+    "phone": "(386) 759-4099",
+    "servicePhone": "800983959"
+  },
+  "birthday": "1984-07-10T03:17:42.932Z",
+  "ip": "175.103.173.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Humi ojahedke fi cakuhzo wocwarit laj wor ziz icjeri solguep zil pirojuad dutimi. Samo kirep en dir fuzcazsuj sosob mobja la cifid lujunlo afahabon lepuziz popirgis hof lo. Uw fafac hac bevlapsem rabifgu issuw ravatur iztase juvaunu ape uro sag rec idilap.",
+    "bio": "Ruzej rilta ruj gafuv ok egezezo esgone pucbit nehu woka rur senid du. Bi daz opafo dijsoki davowvub wo sen secpel gafa hus vi nukuhtug. Gupuhu ecozi evwab va ujugemov vacothon sowdiczok fagve zene bi kufgo uc. Fihkevos fuj jocpelez worivoduc vibodum itowow adre muf diarje re napha tu rupik ifogo mokah. Emuvog gekmug gegbacpo hore mowsihag bicekuf zoduzod cupuzef wudgenok cekikov cot mi cisakuw."
+  },
+  "apiKey": "67a4f6927081206a2db12f861bd0742376b009e050b891c051a5460b41ddde39",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
