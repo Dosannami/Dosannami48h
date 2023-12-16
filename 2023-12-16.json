@@ -1,0 +1,26 @@
+{
+  "name": "Cecelia Gonzalez",
+  "age": 58,
+  "address": {
+    "street": "Niltev Parkway",
+    "city": "Kinuule",
+    "state": "TX",
+    "zip": "38840"
+  },
+  "contact": {
+    "phone": "(819) 335-1434",
+    "servicePhone": "800885544"
+  },
+  "birthday": "1972-10-25T13:15:38.453Z",
+  "ip": "40.25.69.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Cekob ise pu tuk sunmi ijlicri wogvan maho on ofo pi nov ku mecemese liccu jijehata ot necuburel. Jeru faduhji cotezi fojbo utdad nebuh sebla cu poor kariwu nopriza cascafam ipojum ipu ogufe vuzavu zo den. Bu ena nuda vejwog gab ece ju da vemsugcad zu atgo orekup.",
+    "bio": "Zebova vu vip ehasiapa oda tejsekid kuz vegbaza ifpepu kedhuhja nuheza setowudu uziapakig nuogafu ineordec vombas. Tiok rujiva re epainiped nesuko sukez baso milri werut tulgo uju ogucehej espu fok otfeba faslotgo codep. Ersan udofi nulujzu sipravi fed iga feeno fiit cos uga pokbuler lesgoro etusilwez feta najupkab akpavtam nowos."
+  },
+  "apiKey": "ec1faf2d14ee2c0ca44a32cc72a61aad8ce8d5ee9ea855396372915033f6851f",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
