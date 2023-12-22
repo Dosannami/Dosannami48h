@@ -1,0 +1,26 @@
+{
+  "name": "Virginia Tucker",
+  "age": 65,
+  "address": {
+    "street": "Ozocis Junction",
+    "city": "Cigehuk",
+    "state": "WI",
+    "zip": "97514"
+  },
+  "contact": {
+    "phone": "(685) 840-2008",
+    "servicePhone": "800649433"
+  },
+  "birthday": "1990-11-22T12:36:39.409Z",
+  "ip": "182.130.108.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Aksup ummikaw sejloz sebapem wafga hup macezanu sapa ovmehna wod hafuna jencajca. Wumtov azdatfiv ni hez icrah jigofa fafuk uwdo ju zeizve peludfok gelakpa laluce widerbam cupolka. Ondakwo belhulo no ezofumhu wopgi jir vovozib rigdoszi gojnah eknu abonod feke.",
+    "bio": "Kouk civrop guz gibjijkuj vetepnu iz cili odava ci weeg tuk cuhji juze urovo. Niti dafor rasve hulbeg lamtal womlede segok riwut gab ohlizih de loog ab efenuvus cimemjew olazog vi. Ozvoit rewletomu wovhilka ud pivpi vureda he fidwifjiz nifzoglub bergab dep dopvih ehuhelsi rojop ra rubabse. Zezic roazese ja tedpum jib tefbun bopu nepip lizoheja lav akouwsi pel. Vehef cecighe gepufem jed nu impa odemiv pehuk masabuwu sec ubducat kofe curosin naknudga abajiwaz. Tazupele hojuruw honawle ad wu athuza od tinu isetalo it apa jin vo haca fomkuf ih jir pujoweipo."
+  },
+  "apiKey": "b6a1befdbd8e5fded9b443c6d54244644e4af1aac2de473f69a31c2b66a19a43",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
