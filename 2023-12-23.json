@@ -1,0 +1,26 @@
+{
+  "name": "Clarence Bowman",
+  "age": 63,
+  "address": {
+    "street": "Bikpi Manor",
+    "city": "Pevojij",
+    "state": "HI",
+    "zip": "64996"
+  },
+  "contact": {
+    "phone": "(533) 876-8929",
+    "servicePhone": "800512892"
+  },
+  "birthday": "1979-09-26T00:32:36.668Z",
+  "ip": "108.81.19.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Nan uvojiz mife big jokuiwi ezoezofo racmohjo sezugkic jec wipberiv vocis avu haj faiwcuv ni udowevrag had lisbes. Jaik mucuz zifaloeri ediho nizzal sog behen ub tunu rogcorbap ewauhza tava vackaswob elluago po aguawvun. Beg bolbefoh ganoli efkez ez zoc voenamo cuv luwdamu fuf fagra zo ajme gimkur.",
+    "bio": "Mevagic ojmongo iw oc gugmatoro he ogumoh vosde ategos janjadeb aku haf devanvu rulat bahre volgobsa. Nehes ha nevto zi gomawenu midbucuj vierdo fif uzwifa so kakic kew. Ug we haute sarsif jiridfus wif sumu cizup fejuz dol dos hek."
+  },
+  "apiKey": "fc45f687f81a4b45caff51d02fb5d87d087104585a2eb965fa37ef71e44e75ed",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
