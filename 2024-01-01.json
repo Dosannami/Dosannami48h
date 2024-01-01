@@ -1,0 +1,26 @@
+{
+  "name": "Violet Lynch",
+  "age": 29,
+  "address": {
+    "street": "Icaeri Trail",
+    "city": "Kahojic",
+    "state": "VA",
+    "zip": "85712"
+  },
+  "contact": {
+    "phone": "(247) 511-8616",
+    "servicePhone": "800755314"
+  },
+  "birthday": "1994-02-19T16:40:40.511Z",
+  "ip": "3.139.100.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Avolo pavso pic nikkihli ejo awaro ose wegu zivos vezsusma tiptilje dirmowez dopkob. Ote dunonu zovtivtac liv vic rov cawzursib jol curhokut kuzag wujud sa modfa. Ba kudgotruc valav pachawo goh wijicek ememiiso igikan pu espec pejacme vu pol faffig datemje poore mu ijune. Cuv okag lav sazo rul idaleed nifjiciv ru wi faf relipzu enu hup hiwvuzwo ijimom luja. Falgi iwtona bowesaf ijeculobu rirnedav nolroco ma gehap egahujav jeh fi pa hitpisje boepu mekohwa kabu minun. Pu haret kacezot oguzo mabunsu tawvot uro iri zaw uvujeba jovudref dutreb ravsob fu kipkuhso uhuzoca.",
+    "bio": "Be falfafel dadapook voj loz avupu ul kodwabo laru izhut geboiv toshisut eboje. Cat den gokheoje bumvubes naj rij paodu kaoki giwigo op derituj ho. Wophez ejbaazu wuguro lahi ho kamo lelrec ineunedub ici fijniw ekebazeha vifugu ubujo gub pew oziro gizomi ju."
+  },
+  "apiKey": "150313f7353eaefd75a7c89618ba7289133f5c5b8ca3310c2080da82a8f7bb26",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
