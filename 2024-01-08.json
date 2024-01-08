@@ -1,0 +1,26 @@
+{
+  "name": "Derek Reed",
+  "age": 39,
+  "address": {
+    "street": "Tuugo Turnpike",
+    "city": "Peosaha",
+    "state": "IA",
+    "zip": "46562"
+  },
+  "contact": {
+    "phone": "(229) 416-6423",
+    "servicePhone": "800356684"
+  },
+  "birthday": "1981-01-07T15:35:01.014Z",
+  "ip": "1.186.16.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Vu wezkivi dimtopgi rarjolo ozuoji wor wospevre wubodi kahnokek for fi wih sekowuwok nemahdic ozokikuc. Kif buafle kipivhiw rifir nip sukhog vavwuzev sokewkem meuf botvag wa toif akikibva. Lemkufeb jogem jo kow vawofu er hugwu udmucnev mewu iverusuk ke abuful.",
+    "bio": "Vifden leczuk puhnuf ok olisowa wij din iru cikud an nirhi uhap mewifeva tulueb gorfuvset eje isena. Lar osi ub muhpecje mev ivcuntu oh tigupe ov tovuapi folmu coup. Eso ijrew lujcanac leczo fumivna rip bipecmok muec muf we bica mam os. Petkam nemwisuv iciteoc vah wuculeti ewnedi kunzozgu tawpowop te dufowjo fefekbab ma lewnujzar derbatcu buluno zihsop. Bivetezob zibniz tefse buvab taz buwa imtuslaj gun tece zadbifna jaz donjacis. Hoglum rekif ifomwe rak vewa lokso okanifi olooluulu caibuet kofaj adaju ihulegad duham ebi hesu anmaz uko."
+  },
+  "apiKey": "f538b0aa51367700ed8de5f4bbcbae40f650e00b36a09ef7290bc3e1d56a5206",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
