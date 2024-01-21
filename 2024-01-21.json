@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Watts",
+  "age": 27,
+  "address": {
+    "street": "Bapbo Avenue",
+    "city": "Havcosuz",
+    "state": "CT",
+    "zip": "12526"
+  },
+  "contact": {
+    "phone": "(870) 855-5065",
+    "servicePhone": "800288374"
+  },
+  "birthday": "1981-06-16T09:43:30.079Z",
+  "ip": "82.229.214.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Lis uhjolto vo akugippuh giec sasta pib da gib gaf sattiv pochuwuk uwnawep ha sevope remiec sosor gah. Ruzivnoh viklu ufre eheriztoj vihib koikojog hitip rimir zaf voracit boj vu fokone garmisadu. Nu eso suwu bivij lazi kid husere copci lec fi eme ir weetemu mih tepisut fevwuv boj ojwu. Favfate wemepe tuhded avahi tidafgam kuwec sucojzu tivzuf jogopakev gim cetvis fedo win asur esojapaj ewefanpef sivge mopzi. Cokici hin anuca fa bepihic mifu fara eva fuolpoc zosawovu goimni cufim edukjem jewvaom ido ufzic rug efarak. Tadhe pecupik cov boiporu le suobi regcizwa ku digiso kazo fippooca na fu huvar.",
+    "bio": "Uwopi nevevon kac natol koembi pe zaru livuj kebiz kug pecitfe puodruh don zod piwze ufaka. Iz pihog icote rah cujtebek sikuim az ciwenduw coiha apuviklog su bej mu gu kusuj. Koraj sesrap etuziaha ocu edziz pogar wonumu metpopzu wa caklinfoj ir ekave."
+  },
+  "apiKey": "0196d2f594ea7908bfeb7f3c14db5ebef28394085368003757df3db2447526ab",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
