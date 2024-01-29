@@ -1,0 +1,26 @@
+{
+  "name": "Henrietta Owen",
+  "age": 18,
+  "address": {
+    "street": "Izuh Street",
+    "city": "Gavaseb",
+    "state": "CT",
+    "zip": "05251"
+  },
+  "contact": {
+    "phone": "(835) 845-6285",
+    "servicePhone": "800241786"
+  },
+  "birthday": "1965-12-13T17:42:12.795Z",
+  "ip": "38.68.71.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Fedoh ufdug hukobol woco zeaso zargul ho eboheru wikrolbav nuk nuugerah cuuvipez uzo ozeobafoc bas ni sablirat hune. Zanvehoti ziloruf uh cizalwez gewtit ebebib vafdow kufunev iztu zozmoha mazgofsuc acikis tazafoga zaco ju pun vo tagepuk. Pi hako gihej huga efacate no aveh rujkibuwa soet taba ubegaru betaew tu dejocur ziwuf hazobvav gocuwsu mazvew.",
+    "bio": "Gek awo zujuta ga vasvob adujatwa kuakosik niiffa ruj eliciztig fuad givfa zunkado. Pohpa ufmoov carogpa luosral woeppun icok fitnos juvbugpof ahfegoti sad dajlihal ahloned saruek. Ruf wop wup ge kokemja iponecec da pud va pi cune watbesu gehizbi ni nejah koguaf. Soomimin vefde kuvjuvar rebpaszuj rubnizhog fep mek ku pol cimmanu he gok noma mejhu odjegvar fimamta. Ilupol wiltisem cu wudu tuvbah pup caf worimecun wot oge nuhzilol zuviki zuw."
+  },
+  "apiKey": "69ca8a87e8c50135a2a407a68f619db7ac86ec4096302a284734bdf2bd30ac65",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}
