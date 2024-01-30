@@ -1,0 +1,26 @@
+{
+  "name": "Juan Oliver",
+  "age": 42,
+  "address": {
+    "street": "Rusudo Highway",
+    "city": "Varcomfec",
+    "state": "MA",
+    "zip": "70659"
+  },
+  "contact": {
+    "phone": "(703) 553-9466",
+    "servicePhone": "800444211"
+  },
+  "birthday": "2000-02-09T17:06:54.284Z",
+  "ip": "74.180.32.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Eco dewbi ca ur ler conel zop habez rekzi ho oc cizun vof itilowvum. Ruz sa ceb toczac ajve kicsehefe pi kizilo bigrojsin rukoh okigina piguc el. Afi sewomin dor wefozug li pegev hefog zinhut cidud otzobja de futu opaden lo olo tite. Ugu wasiburop dup dolib volavjoj honekege metkawos baerowo pifob solzamud ahu pepufewi je vog olnez gasedca pigsarkis.",
+    "bio": "Hiez kughepik bo motparun komci velip gufbafesa fo bij voz rioku eta fa amitoti voh ennezzek. Nonfen haragza ekedujtug fod uruhihet nekja efiwad lasol zojnopkow gag hikca naz jasuti minsahuv gur suserle pedihve jemakif. Wopcihom bik oklaku panat se biv so tusa du zoc ruh loh keggawvo. Pub ninogom mah benjoiva fimfa fowdetov wakiza pa hirsemuz cifjud lazmozuw supiboso lizos kamejmiv. Zo vu opile govawbo cil haczem wefuzki uso licvuga lijvasud jacgovnir zupo dewatgi igiip li ku."
+  },
+  "apiKey": "c4e298cc9bf35aaa055894626462a2eac266d12870dd4a283632a10c5a1a1d51",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
