@@ -1,0 +1,26 @@
+{
+  "name": "Randy Brown",
+  "age": 22,
+  "address": {
+    "street": "Otiot Key",
+    "city": "Vufemdu",
+    "state": "MN",
+    "zip": "44793"
+  },
+  "contact": {
+    "phone": "(744) 762-1113",
+    "servicePhone": "800664192"
+  },
+  "birthday": "1979-08-09T12:20:39.202Z",
+  "ip": "102.77.90.130",
+  "foo": "bar",
+  "profile": {
+    "about": "Ifuzanu ciida paukfi wowendij gu do pahpu pum epsobi gofezi kuejovu maep wut cofwep bu gubeg. Dewvan guhil delacep takira tun volsis cosfej okisajvid lekogguj fejtis zir behemo ko dih pab ibid efuumiet omeepe. Hiwehedem mij divoabo ewisuctej coca bef orovifbi jegi revoc heteace julij defec pev uji. Gavavkut banfu logvip zorozon ko gas weraj ibohcu fa dafar zudkok kelawfi.",
+    "bio": "Gire turupahu no cumvajnu hovhafe kozepbu sa agamef kimeb nahtofba wumduf sa cotfi kirme bafhe pimossej turbico. Polzoena ifudo oruha vud sogunla hasoew pec cuzpip getnem mawonu ivmu limel uw ugroza. Ca navvekce sibad vohupmo utibpak sapdappaf uvukofka aztimzu upwalac nu torhitif om ku wifeb jinak doutaaki wid. Zapdezad cakicfom vam hug hozu ima zulvod ikeitope sodehuloz ulgo cinene iwa. Tutwe giz gi jolicje ro ev peh jegwestet zenbekcu movpi iropuli vednuur efiago ani joz zadsa."
+  },
+  "apiKey": "b94528b471822558a1adfedbc455bd4f4c6d57780b73dde84adbf07795508ce2",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
