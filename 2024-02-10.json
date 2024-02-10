@@ -1,0 +1,26 @@
+{
+  "name": "Abbie Daniels",
+  "age": 60,
+  "address": {
+    "street": "Lafav Place",
+    "city": "Jecuzo",
+    "state": "DE",
+    "zip": "38473"
+  },
+  "contact": {
+    "phone": "(359) 631-2232",
+    "servicePhone": "800511859"
+  },
+  "birthday": "1991-11-05T04:21:13.116Z",
+  "ip": "121.227.213.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Am wi il ur saweoro nujesnif giliwoj wik ema vurim funi ociafe keblu wul ziesu vunes eroho efo. Nahureso efahipu ij jumji olo ehlus de gurlairu calofhop mohu zuhesir gojlijir du. Lacuja po riosoge hebon du koh fesowuv cevig kas saj mekke diler gedumke fukibagof.",
+    "bio": "Atabowe eticzi vur reruvwec aj ezugitdav jac gaiw mezhibaf few ohug ifesupig. Idetufjup lar potcus emfirer lircuvah lelufi fe wajken todikhe ezonucu damudu uw ad dudijbod lidik kazates cavahce fe. Wogcien nucal guhaka po sunmi di wug nod akerasdo lob bo ipivu zacuguk zizanvo tesvil uge. Giwuc ib izokoj wi lef niwuba watoz iledi ilhelja ohalo waga geasuvuv. Cafij adamor tavcip tigir fihop zocna vuc kohor kopre rago do zep couvoje geopo gi."
+  },
+  "apiKey": "dd1ad2978d83a3498b2bc8b9f8e05fed9ca68492df7236caa6492cd789c18fe1",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
