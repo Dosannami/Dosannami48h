@@ -1,0 +1,26 @@
+{
+  "name": "Elva Phelps",
+  "age": 43,
+  "address": {
+    "street": "Kohti Loop",
+    "city": "Kinikiw",
+    "state": "NJ",
+    "zip": "74315"
+  },
+  "contact": {
+    "phone": "(262) 249-2461",
+    "servicePhone": "800917925"
+  },
+  "birthday": "1993-05-17T10:44:59.586Z",
+  "ip": "209.26.115.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Jehitfi juntu gonutiilo lawmol tahilo iwomu wu ja busijef kamin maej siapje unfu zi folkehwi vavacoc tumav. Doato potfitsaj oh bevtuko rutoasu zufsarol jusizo pe uled nodzehver pagivat heriule gutitug udhoffut fulubjoh rag. Polego geg sifhowi da berzow cila li apiuf we pac lowjof pa nedo coce gu.",
+    "bio": "Gu agame widersim mowov lac wego kacijoj ne nisnu liputsom vales owo ju ipe loj. Gavpauca hos ken tapgar daw topicfiw lokiku oho kin bojev edi evoli sefuv ja vok izo ju. Zi vavnepniv noste fozrohru udofoh eceajawi pow ovfor rawda silinu vi ug oh cov okuzife ra zakfid."
+  },
+  "apiKey": "6760c8bc090885105acc0e09939d72934fc552d82361283112c55c773e6faa05",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
