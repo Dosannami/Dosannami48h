@@ -1,0 +1,26 @@
+{
+  "name": "Alan Schultz",
+  "age": 44,
+  "address": {
+    "street": "Lizo Avenue",
+    "city": "Juipukir",
+    "state": "SC",
+    "zip": "44581"
+  },
+  "contact": {
+    "phone": "(284) 390-4011",
+    "servicePhone": "800296324"
+  },
+  "birthday": "2000-10-31T12:12:49.279Z",
+  "ip": "145.21.205.53",
+  "foo": "bar",
+  "profile": {
+    "about": "Edtuc ha rufuv suz vojnedmeg vipruget lus mucah pimazo virpod gudzoz hes opu ror hurov ebleg tac. Owwicca haan ed us ofebirweg geiwaz nofwi inapac bahvaz jusvomuv ansu tep fudenuir ge kerku koewovu set bezicehud. Aveluf lajred ho te suhejmut fecwe kunkepjoc vo wavewug cowwed isotip rowtulcot ilihepe hodmev ventoc ejejuar. Dumeze tu cu ukeeco tave cinucazu coljaj si dajaker nisikhi etowohdas ihbun.",
+    "bio": "Evfe fizoew upe ca bow zo kap ril bok of gippawoja be zu wi al vihos. Ohu nojikad befepi gambeh kaduute emu elbitop zet ar mi zop zaewi dersidej. Dohirbi bu ka valem cifidte neljon naohjo vurgaziv eg owu na bofuwven ni henlaw tajulviw. Vom mak etiwaco se ur ketuf pebkovli siinure falhufa gakkep kafesene kaul vafehic. Jakvenu wihluja or vevvo neilavih onnij eru umisnar jepku fefarcu pogrivofe jozdeg ugi. Ejado caova rof lubowwa ewemef olpo ecupu ob vunebhuh fiuca sagutfo wa ri jugugo jel totsusa vegekgom."
+  },
+  "apiKey": "aadf279bfd4e299d9e669ae341d6d27073ea44676af196d93679dd40057c59e5",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
