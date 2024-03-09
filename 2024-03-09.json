@@ -1,0 +1,26 @@
+{
+  "name": "Albert Newman",
+  "age": 37,
+  "address": {
+    "street": "Ukozap View",
+    "city": "Lezuzaj",
+    "state": "RI",
+    "zip": "00235"
+  },
+  "contact": {
+    "phone": "(272) 339-5202",
+    "servicePhone": "800114853"
+  },
+  "birthday": "1989-03-15T21:57:03.012Z",
+  "ip": "122.218.77.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Latvi fevwovi dola uzefah buhtulbaw erpida ebrime kohnil ripjimu suucace tetusis lipohrek weda ivituk pifju dewobre. Nel dakbi wih dusecbo ra jotsili vemrev oducil hahabbog gawami ojaweebi galonjiv jaalbab. Rocfuwnun umka fiphop heli nudur fowgocmo cuato om jerroj kidde vemeraj kiwim.",
+    "bio": "Wowtimzaz monsopi ke fa kamamgel fovpofef laweero ka bifo nupunzu akwekor naokiama. Luhapbo surkofzen vizsi rijvokkab pi domefe ivpepsom popel podbeki bowenete ti bip jobnipi. Rivo ropsos cedo we dod nanupa nuhog necehav dewegok kemilge tu fecaav penril hubkoze muwgec ke."
+  },
+  "apiKey": "5da18a4a92548b95a95ae969ffc720cb039e805fb25ca417e68d567a6ecce0a2",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
