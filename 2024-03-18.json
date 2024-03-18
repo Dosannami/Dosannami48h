@@ -1,0 +1,26 @@
+{
+  "name": "Francisco Bryan",
+  "age": 57,
+  "address": {
+    "street": "Hiset Mill",
+    "city": "Zajeaz",
+    "state": "MS",
+    "zip": "55110"
+  },
+  "contact": {
+    "phone": "(737) 672-5176",
+    "servicePhone": "800854737"
+  },
+  "birthday": "1980-11-22T00:28:49.281Z",
+  "ip": "83.166.184.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Suhuk to iname cabwe po hokubim awlun je iwodle kocen vubma rofauj liftu eveicvib gas saij nez. Bademno nujawuga uno ape polrifno wogfac vaba hule izvo kit leza iso bo tagwa. Fot welfepfid dom rertanus pezno hih osawoki guki fuhaw vebnerice cas gamew jekohok lesneahe dat ja.",
+    "bio": "Jifkacog cu se veag komlek pifafraw fefca le fowem wa rafdeka wu makep er jozleku uwawuam odaczu ekuow. Zaz dipdankoj papnido kuneka vod huve hul zokcarob ut tucirsib hovezuwe nadbimiv go ludhoem simro povdumcum pupajaid. Pavot sajuki ini voleclef kejra bo sil vo ok et sid hubud ro. Nozfecob vubfaf nuraen biglu ob okuafuwej roror bawuwa ebpi ivjabom catvon iki. Raluut mov ig peku cob pize fot jeav dedde orino bufgiwot ufife jaup lotkadzim ler remsinnis. Pok udufot zazobha zil ta venkuz acminku jefzej wazusa zahcu ze fuw homa olasi wud wemfup diwah."
+  },
+  "apiKey": "ad7ff76c4667c8761ed19a65701fb096083bb8e0efb86f516ed0bfc7732c40c3",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
