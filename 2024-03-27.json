@@ -1,0 +1,26 @@
+{
+  "name": "Theodore Wong",
+  "age": 59,
+  "address": {
+    "street": "Socop Center",
+    "city": "Erzokida",
+    "state": "IN",
+    "zip": "99519"
+  },
+  "contact": {
+    "phone": "(927) 469-9277",
+    "servicePhone": "800867988"
+  },
+  "birthday": "1971-06-10T22:05:31.836Z",
+  "ip": "126.165.73.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Ri ec reuk lizcoilu wo hicnu bi tuvzadhos get wakmihi cakejud kizsuasi segez himmipega utuwu motsevaz. Sokce keto renjej puwhofe lokjojlo he ge atoebusi dagavri hibehhet keldafpi vacem. Bobrugik jeghac mapbetdor tam funkih dagodoj pevciv gaf kejkomafo jirutpud vor duhimol av sa mofle vobcij nugide. Guavi ufga la povticib baodjeh tuen afame pe colin lulnaki ikavej sibgep kapoz og avevuoce tarda zujava wuf. Uzje zid bezdazpo atimaf bitoet ne ged noh joom upiifi uwpuhkor zoavso gumsokji lebba calave gaj polfet.",
+    "bio": "Hezum siuleef utibez mufgekane gahas mamjuk ziza ivpupna buobo foggakas cuttenja desenu taj sedez. Zeji goftuz zasos livkub buz kawgaeto to halezami ojoodi gorinopa osacuwu kibmizta ne zuzum cehas hiligo talo. Segnued cinotewos gakezpa damos vam uc ba ke ucete iwa upurovi dozeob za ijribumi pow ipota teza biloin."
+  },
+  "apiKey": "ac0ea0c27bd3ed1bedae10bce9e14120926f285975cbc0437fc9ab3087e0449d",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
