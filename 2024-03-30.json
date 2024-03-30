@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Silva",
+  "age": 24,
+  "address": {
+    "street": "Tivdu Drive",
+    "city": "Zorkoas",
+    "state": "PA",
+    "zip": "55268"
+  },
+  "contact": {
+    "phone": "(344) 849-9070",
+    "servicePhone": "800356745"
+  },
+  "birthday": "1977-12-24T14:49:04.012Z",
+  "ip": "169.63.225.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Jab haephit bijca necmamka zopsop ezihmuh tewitgu jit ma vec fetduzo si zocabvot ponfe voarruh uke hihav sukoclir. Cob nuwru jiwbizad ri zocza keza wiocruw semduw tukto wam gibni huidki usige. Cafitot fe feru rijufi cemik kati wew se hotetu segel bownijgo zebzo ham facu vu mulfiplim.",
+    "bio": "Gov gec gevefu johjoc raiwaeji gureje ovmu fekelrim zewup vez opawep adaihiwap rokuc betvo in. Zev vi fod nucisiki hid mebot vac zuzanuz sinku etebuze emuzom osfomaf gobu bucgu. Tackef pid lo tekvan emi gilpo zuwepi lirubfaj cavacija vi ma cevfuwol jozupze medfo ra fitur. Garmoad ovoapi gede pudkagih mektego ripraz kobum nipwoja sot nujniv udhiko deam ekcihkot devna tatauma."
+  },
+  "apiKey": "45d7ab70ba230d00ff07bff21e783f70e22b89d564f97100a4e4b1b8c12d9f43",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
