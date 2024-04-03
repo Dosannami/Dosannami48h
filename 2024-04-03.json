@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Lamb",
+  "age": 48,
+  "address": {
+    "street": "Node Turnpike",
+    "city": "Mureha",
+    "state": "VA",
+    "zip": "50770"
+  },
+  "contact": {
+    "phone": "(689) 969-7911",
+    "servicePhone": "800653191"
+  },
+  "birthday": "1980-03-06T15:23:48.552Z",
+  "ip": "135.219.35.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Levepkom risafu tazepad idjo mitpaz zoguvnof ladoepo mejgice ha omo aceet ufu parbeuva mow omicud. Sipgah paelo vivu zot alhakte ojolivuci ovriwco zagekca iziwe vepumges vumohju gepfic. Few tit wop tazpu nitocu gobiba tejofofu samga ovro ajhe codule oguda juro ovaizu. Sed ji resij kibkuhoz tezute mu ti fi kale esfoaw lofzi lakdowub. Veule saahic gewoz vuda umu diz hica neugu vi liw sid bagwotdek luuk paib esabuel keda. Pib iw lebu racacmat fugomgod ud rar newdor gawhemke sisdi tusen po agi.",
+    "bio": "At ibwihkog nu cotuc vitpizve madegfi alehoplac dirmuvfi ce inudip reniju fanogepe tare alakajej hop uwo denu ne. Gohubad nuczazu ido ligomzi pav mefgezu esji ehouw ki bimatu ged fojza necab evfip ril lewet puzcaccug mig. Fuse ru rehulaeb nufa vedaj osgu jispiz liglon ku zogwi ev zacu niboc kewwiku dejiv sivosu fippuk. Tuiwoda nibedov uta zuh san satpuni jakojahih kerocpov gepkaran decguh sowa borig ujlel zokej vavzamnup kikaja."
+  },
+  "apiKey": "76a7f347adbac845b0526ba49b04025ca3ef128216cc38e709fffee3935cdc19",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
